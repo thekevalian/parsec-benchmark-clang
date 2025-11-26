@@ -6,7 +6,7 @@ SRCPATH="$HOME/parsec-benchmark"
 
 # List of programs that can be compiled with clang and c++17
 programs=(
-    blacksholes
+    blackscholes
     bodytrack
     ferret
     fluidanimate
